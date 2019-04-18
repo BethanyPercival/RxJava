@@ -1,7 +1,6 @@
-package uk.co.onthebeach.rxjava
+package uk.co.onthebeach.rxjava.service
 
 import retrofit2.Retrofit
-
 
 
 class Service {
